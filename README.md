@@ -38,9 +38,9 @@ The following gateways are provided by this package:
 For general usage instructions, please see the main [Omnipay](https://github.com/thephpleague/omnipay)
 repository.
 
-## Out Of Scope
+## Billing Plans and Recurring Payments 
 
-Omnipay does not cover recurring payments or billing agreements, and so those features are not included in this package. Extensions to this gateway are always welcome. 
+Omnipay does not currently cover recurring payments or billing agreements. However, the PayPal_Rest gateway supports the creation of billing plans and subscriptions, which can be used to create recurring payment profiles.
 
 ## Support
 
